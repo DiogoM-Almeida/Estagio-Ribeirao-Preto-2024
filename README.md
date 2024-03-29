@@ -1,1 +1,1 @@
-Repositorio desenvolvido para publicar os arquivos do teste do estagio Ribeirão Preto 2024
+Repositorio desenvolvido para publicar os arquivos do teste do estagio da Target Sistemas
